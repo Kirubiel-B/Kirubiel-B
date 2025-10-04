@@ -36,6 +36,6 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 ---
 
 📫 **Connect with me**  
-- GitHub: [@YourUsername](https://github.com/Kirubiel-B/)  
+- GitHub: [Kirubiel-B](https://github.com/Kirubiel-B/)  
 - LinkedIn: [https://www.linkedin.com/in/kirubiel-beza/]  
 
