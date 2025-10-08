@@ -75,5 +75,3 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 - LinkedIn: [https://www.linkedin.com/in/kirubiel-beza/](https://www.linkedin.com/in/kirubiel-beza/)  
 
 ---
-
-💰 **Support my work**: [Buy Me A Coffee](https://www.buymeacoffee.com/)
