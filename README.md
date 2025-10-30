@@ -75,7 +75,6 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 
 #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical)
-
 ---
 
 📫 **Connect with me**  
