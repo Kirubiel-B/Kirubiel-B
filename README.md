@@ -8,16 +8,6 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 
 ---
 
-### 📊 GitHub Stats
-
-![Kirubiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubiel-B&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirubiel-B&theme=radical)
-
----
-
 ### 🎓 Education & Certifications
 - **BSc in Computer Science**  
 - **Certified Software Engineer** 
@@ -78,6 +68,14 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 ### 🌍 Outside of Code
 - Love exploring **new tech trends** and **open-source projects**  
 - Strong interest in **problem-solving, systems thinking, and continuous learning**  
+
+---
+
+### 📊 GitHub Stats
+
+![Kirubiel-B GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubiel-B&show_icons=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirubiel-B&theme=radical)  
 
 ---
 
