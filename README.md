@@ -71,14 +71,6 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 
 ---
 
-### 📊 GitHub Stats
-
-![Kirubiel-B GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubiel-B&show_icons=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirubiel-B&theme=radical)  
-
----
-
 📫 **Connect with me**  
 - GitHub: [Kirubiel-B](https://github.com/Kirubiel-B/)  
 - LinkedIn: [https://www.linkedin.com/in/kirubiel-beza/](https://www.linkedin.com/in/kirubiel-beza/)  
