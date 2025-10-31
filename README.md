@@ -77,7 +77,7 @@
 
 <p align="center">
   <!-- GitHub Stats (private + public) -->
-  <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api?username=Kirubiel-B&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api?username=Kirubiel-B&show_icons=true&theme=green&count_private=true"/>
   
   <!-- Top Languages (private + public) -->
   <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true"/>
