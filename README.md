@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true"/>
   
   <!-- GitHub Streak (private + public via self-hosted) -->
-<img src="https://github-readme-streak-stats-mauve-five.vercel.app?user=Kirubiel-B&theme=radical&count_private=true"/>
+<img src="https://github-readme-streak-stats-elcu0l1ai-kirubiels-projects.vercel.app?user=Kirubiel-B&theme=radical&count_private=true"/>
 </p>
 
 
