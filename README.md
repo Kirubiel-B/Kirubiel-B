@@ -73,14 +73,19 @@
 ---
 
 ### 🏆 GitHub Highlights
+  <!-- <img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/> -->
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (private + public) -->
   <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api?username=Kirubiel-B&show_icons=true&theme=radical&count_private=true"/>
+  
+  <!-- Top Languages (private + public) -->
   <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true"/>
-  <!-- GitHub Streak (public only) -->
-  <img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/>
+  
+  <!-- GitHub Streak (private + public via self-hosted) -->
+  <img src="https://github-readme-streak-stats-mauve-five.vercel.app?user=Kirubiel-B&theme=radical&count_private=true"/>
 </p>
+
 
 ---
 
