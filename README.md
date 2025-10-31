@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api?username=Kirubiel-B&show_icons=true&theme=radical&count_private=true"/>
   
   <!-- Top Languages (private + public) -->
-  <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=merko&count_private=true"/>
+  <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true"/>
   
   <!-- GitHub Streak (private + public via self-hosted) -->
   <img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/>
