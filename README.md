@@ -80,7 +80,7 @@ I specialize in **JavaScript, React, Node.js, PostgreSQL, Prisma**, and also wor
 ![Top Languages](https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical)
 
 
 📫 **Connect with me**  
