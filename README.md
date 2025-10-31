@@ -83,9 +83,9 @@
   <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true"/>
   
   <!-- GitHub Streak (private + public via self-hosted) -->
-<img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/></p>
+  <img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/>
 
-
+</p>
 ---
 
 ### 🌍 Connect with Me
