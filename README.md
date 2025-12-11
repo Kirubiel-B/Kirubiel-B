@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Kirubiel!;Fullstack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Kirubiel%20Beza&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 
 <h1 align="center">Hi there 👋 I'm Kirubiel</h1>
