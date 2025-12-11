@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Kirubiel%20Beza&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=👋%20Hi%20there,%20I'm%20Kirubiel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h2 align="center">👋 Hi there, I'm Kirubiel</h2>
 
 <p align="center">
   <em>🚀 Fullstack Developer passionate about building scalable systems & solving real-world problems</em>
