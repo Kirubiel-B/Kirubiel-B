@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=2&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgresql,prisma,java,cs,php,git,docker,figma&theme=dark" />
 </p>
+
 
 
 
