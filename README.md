@@ -72,24 +72,9 @@
 
 ---
 
-### 🏆 GitHub Highlights
-  <!-- <img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/> -->
-
-<p align="center">
-  <!-- GitHub Stats (private + public) -->
-  <!--<img src="https://github-readme-stats-eight-sigma-56.vercel.app/api?username=Kirubiel-B&show_icons=true&theme=radical&count_private=true"/>-->
-  
-  <!-- Top Languages (private + public) -->
-  <img src="https://github-readme-stats-eight-sigma-56.vercel.app/api/top-langs/?username=Kirubiel-B&layout=compact&theme=radical&count_private=true"/>
-  
-  <!-- GitHub Streak (private + public via self-hosted) -->
-  <img src="https://streak-stats.demolab.com?user=Kirubiel-B&theme=radical"/>
-
-</p>
----
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://github.com/Kirubiel-B"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kirubiel-beza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
